@@ -3731,5 +3731,213 @@ static const char* const myLanguage[18][205] = {
     "PS rápido", // 203
 	"Default" // 204	
   }
+
+  { "Magyar", // Hungarian
+    "A fordásirány megváltozott", // 1
+    "Kérem engedje el a gombot", // 2
+    "A képernyő megfordult", // 3
+    "Analóg mérő kalibrálása", // 4
+    "Kérem engedje el a gombot", // 5
+    "A kódoló optikaira van állítva", // 6
+    "kódoló szabványra állítva", // 7
+    "FM/AM vevő", // 8
+    "Tuner: Nincs!", // 9
+    "Hangerő", // 10
+    "Átalakító", // 11
+    "Alacsony sávszélesség", // 12
+    "Magas szélesség", // 13
+    "FM RF szinteltolás", // 14
+    "Stereo küszöb", // 15
+    "Jel kivágása", // 16
+    "Jel kivágásának küszöbe", // 17
+    "Alacsony szintű küszöb", // 18
+    "Kontraszt", // 19
+    "Hangerő", // 20
+    "Frekvencia eltolás beállítása", // 21
+    "Frekvencia tartomány kezdete", // 22
+    "Frekvencia tartomány vége", // 23
+    "Szinteltolás", // 24
+    "Sztereo adás küszöb", // 25
+    "Kivágási frekvencia", // 26
+    "Legmagasabb kivágási jel", // 27
+    "legalacsonyabb kivágási jel", // 28
+    "Fényerő", // 29
+    "KI", // 30
+    "Kijelző kikapcsolva" // 31
+    "A némítás feloldásához törölje az RF+ jelölőnégyzet bejelölését", // 32
+    "KI", // 33
+    "KERESÉS...", // 34
+    "A tuner nem található", // 35
+    "Tuner verzió: v", // 36
+    "Kapcsolja ki, majd újra be", // 37
+    "RDS hibák megjelenítése", // 38
+    "Nyelv", // 39
+    "Nyelv kiválasztása", // 40
+    "Nyomja meg a MODE gombot a kilépéshez és mentéshez", // 41
+    "BE", // 42
+    "FM Némítás", // 43
+    "AM Némítás", // 44
+    "Hangjezés", // 45
+    "Régió", // 46
+    "Europa", // 47
+    "Amerika", // 48
+    "RDS helyek megjeleítése", // 49
+    "USB mód", // 50
+    "Wi-Fi aktív", // 51
+    "Wi-Fi beállítása", // 52
+    "Kapcsolódva: ", // 53
+    "Wi-Fi beállítása itt:", // 54
+    "Wi-Fi Csatlkozás...", // 55
+    "SIKERTELEN", // 56
+    "CSATLAKOZTATVA", // 57
+    "Eszköz IP címe:", // 58
+    "Rövidhullámhossz megjelenése", // 59
+    "RDS szűrő", // 60
+    "PI hibák megjelenése", // 61
+    "Használjon zajszűrőt", // 62
+    "Modulációs mérő", // 63
+    "AM zajszűrő", // 64
+    "FM zajszűrő", // 65
+    "alapértelmezések betöltése", // 66
+    "Audio kimenet", // 67
+    "hangolás engedélyezése\nkikapcsolt kijelzőnél", // 68
+    "Kijező megfordítása", // 69
+    "Software", // 70
+    "Fő kód:", // 71
+    "Közreműködők:", // 72
+    "ismeretlen", // 73
+    "Képernyő beállítás", // 74
+    "Időtúllépési időzítő", // 75
+    "Kijelő KI", // 76
+    "Téma", // 77
+    "Kinézet", // 78
+    "Alkalmazások", // 79
+    "Perc", // 80
+    "Dinamikus SPI sebesség", // 81
+    "Keresési érzékenység", // 82
+    "EGYIK SEM", // 83
+    "Szoftver verzió", // 84
+    "Frekvencia betűtípusa", // 85
+    "NEM LEHETSÉGES", // 86
+    "Nincs AF", // 87
+    "Nem elérhető EON", // 88
+    "Nem áll rendelkezésre RT+", // 89
+    "FM léptetés", // 90
+    "képernyő idő", // 91
+    "mp", // 92
+    "Bezáráshoz nyomd meg a gombot", // 93
+    "1% fényerő", // 94
+    "25% fényerő", // 95
+    "50% fényerő", // 96
+    "AM RF erősítés", // 97
+    "Jeladó", // 98
+    "AF bekapcsolása", // 99
+    "Válasszon FM sávot", // 100
+    "Válasszon AM sávot", // 101
+    "LW", // 102
+    "MW", // 103
+    "SW", // 104
+    "FM", // 105
+    "OIRT", // 106
+    "Forgatás kikapcsolt képernyő mellett", // 107
+    "Modellválasztó", // 108
+    "Alap (ILI9341)", // 109
+    "Hordozható (ILI9341)", // 110
+    "Hordozható éríntésre (ILI9341)", // 111
+    "Cím", // 112
+    "Album", // 113
+    "Track", // 114
+    "Előadó", // 115
+    "Kompozíció", // 116
+    "Movement", // 117
+    "Karmester", // 118
+    "Szerző", // 119
+    "Sáv", // 120
+    "Megjegyzés", // 121
+    "Stílus", // 122
+    "Hírek", // 123
+    "Helyi Hírek", // 124
+    "Tőzsde", // 125
+    "Sport", // 126
+    "Lottó", // 127
+    "Horoszkóp", // 128
+    "Napi Elterelés", // 129
+    "Egészség", // 130
+    "Esemény", // 131
+    "Színhely", // 132
+    "Mozi", // 133
+    "TV", // 134
+    "Dátum/idő", // 135
+    "Időjárás", // 136
+    "Közlekedés", // 137
+    "Vészhelyzet", // 138
+    "Hírdetés/Reklám", // 139
+    "Weboldal", // 140
+    "Más", // 141
+    "Rövíd PS", // 142
+    "Hosszú PS", // 143
+    "Most", // 144
+    "Következő", // 145
+    "Rész", // 146
+    "Host", // 147
+    "Készítő", // 148
+    "Frekvencia", // 149
+    "Kezdőlap", // 150
+    "Alcsatorna", // 151
+    "Forródrót", // 152
+    "Rádió telefonszám", // 153
+    "Telefonszám", // 154
+    "SMS studio", // 155
+    "SMS", // 156
+    "Email forródrót", // 157
+    "Email studio", // 158
+    "Email", // 159
+    "Chat", // 160
+    "Chat központ", // 161
+    "Szavazás", // 162
+    "Szavazás központ", // 163
+    "Hely", // 164
+    "Egyeztetés", // 165
+    "Azonosító", // 166
+    "Vásárlás", // 167
+    "Adatok frissítése", // 168
+    "MW léptetés", // 169
+    "Tangerine", // 170
+    "Ocean", // 171
+    "Indigo", // 172
+    "Akkumulátor opciók", // 173
+    "Feszültség", // 174
+    "Százalék", // 175
+    "RT bufferelés", // 176
+    "Készülék beállítás" // 177
+    "Audio beállítás", // 178
+    "Kijelző beállítás", // 179
+    "RDS beállítás", // 180
+    "FM beállítás", // 181
+    "AM beállítás", // 182
+    "Kapcsolódás", // 183
+    "A VISSZATÉRÉSHEZ NYOMJON MEG A GOMBOT", // 184
+    "CoChannel Detektor", // 185
+    "CoChannel Detektor\nérzékenység", // 186
+    "CoChannel Detektor\nküszöb", // 187
+    "CoChannel Detektor\nszámláló", // 188
+    "KÉSZÜLÉK", // 189
+    "AUDIO", // 190
+    "KIJELZŐ", // 191
+    "RDS", // 192
+    "FM", // 193
+    "AM", // 194
+    "KAPCSOLAT", // 195
+    "AUTO rendezés AF", // 196
+    "Állomáslista ID", // 197
+    "AM AGC", // 198
+    "FM hangsúlytalanítás", // 199
+    "Kicsi", // 200
+    "nagy", // 201
+    "Teljes", // 202
+    "Gyors PS", // 203
+	"Alapbeállítás" // 204
+  },
+
 };
 #endif
